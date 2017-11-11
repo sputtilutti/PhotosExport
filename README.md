@@ -16,9 +16,4 @@ Requires [Photos Utilitities library](https://photosautomation.com/scripting/scr
 # Usage
 
 1. Open the script in Mac Script Editor
-2. Modify the destination (`dest`) path to where you want your images to be exported
-3. Click "run"
-
-Directories will be created if they do not exist. 
-Before exporting the image, it will check that the image is not already in the directory.
-
+2. Press "run", it will ask where you want to put the exported files
